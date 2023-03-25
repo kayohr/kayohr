@@ -34,7 +34,5 @@ Desenvolvedor Full Stack em formação pela Trybe
   
   <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   
-  <img align="center" alt="JEST" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-
 
 </div>
