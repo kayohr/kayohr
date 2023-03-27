@@ -4,8 +4,6 @@ Desenvolvedor Full Stack em formação pela Trybe
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayohenricky/)
 
-![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)kayohramos@gmail.com
-
 ![Kayo GitHub stats](https://github-readme-stats.vercel.app/api?username=kayohr&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayohr&hide_progress=true)](https://github.com/kayohr/github-readme-stats)
