@@ -46,8 +46,12 @@ Desenvolvedor Full Stack em formação pela Trybe
   
     <img align="center" alt="cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)">
   
-    <img align="center" alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
+    <img align="center" alt="Mocha" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
   
-    <img align="center" alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+    <img align="center" alt="Testing-Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
+  
+  <img align="center" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
+  
+   <img align="center" alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
   
 </div>
