@@ -1,5 +1,5 @@
 # Olá, sou Kayo Henricky R. dos Santos
-Desenvolvedor Full Stack em formação pela Trybe
+Desenvolvedor Full Stack
 
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayohenricky/)
