@@ -47,5 +47,7 @@ Desenvolvedor Full Stack
   <img align="center" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
   
    <img align="center" alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
+
+   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   
 </div>
