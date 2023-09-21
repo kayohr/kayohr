@@ -42,8 +42,11 @@ Desenvolvedor Full Stack
   
   
   <img align="center" alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  
-  
+
+  <img align="center" alt="Vercel" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+  <img align="center" alt="Vercel" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
   <img align="center" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
   
    <img align="center" alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
