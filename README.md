@@ -87,6 +87,10 @@ Desenvolvedor Full Stack
           <img align="center" alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
           Sinon
         </li>
+         <li>
+          <img align="center" alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+          .NET
+        </li>
       </ul>
     </td>
     <td>
@@ -105,7 +109,7 @@ Desenvolvedor Full Stack
           JavaScript
         </li>
          <li>
-          <img align="center" alt="JS" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+          <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
           C#
         </li>
       </ul>
