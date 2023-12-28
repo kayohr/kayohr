@@ -104,6 +104,10 @@ Desenvolvedor Full Stack
           <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
           JavaScript
         </li>
+         <li>
+          <img align="center" alt="JS" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+          C#
+        </li>
       </ul>
     </td>
   </tr>
