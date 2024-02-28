@@ -9,7 +9,11 @@ Desenvolvedor Full Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayohr&hide_progress=true)](https://github.com/kayohr/github-readme-stats)
 
 <table>
-  <tr>
+     </li>
+      </ul>
+    </td>
+  </tr>
+
     <td>
       <h3>Front-end</h3>
       <ul>
