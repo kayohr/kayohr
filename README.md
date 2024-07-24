@@ -5,7 +5,7 @@ Data Engineer/Analytics Engineer
 
 ![Estatísticas do GitHub de Kayo](https://github-readme-stats.vercel.app/api?username=kayohr&show_icons=true&theme=dracula)
 
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kayohr&hide_progress=true)](https://github.com/kayohr/github-readme-stats)
+<!--[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kayohr&hide_progress=true)](https://github.com/kayohr/github-readme-stats) -->
 
 # Ferramentas que uso atualmente.
 
