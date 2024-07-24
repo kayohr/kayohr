@@ -7,6 +7,12 @@ Data Engineer/Analytics Engineer
 
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kayohr&hide_progress=true)](https://github.com/kayohr/github-readme-stats)
 
+# Ferramentas que uso atualmente.
+
+[![My Skills](https://skillicons.dev/icons?i=docker,flask,gcp,git,github,linux,mysql,python,selenium,ubuntu,vscode,windows&perline=4)](https://skillicons.dev)
+
+# Ferramentas que já usei.
+
 <table>
   <tr>
     <td>
