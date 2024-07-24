@@ -1,5 +1,5 @@
 # Olá, sou Kayo Henricky R. dos Santos
-Data Engineer/Data Engineer Analytics
+Data Engineer/Analytics Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayohenricky/)
 
